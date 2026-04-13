@@ -1,0 +1,1 @@
+This project implements various sorting algorithms and explores their time complexities in best, average, and worst case scenarios. Each algorithm is implemented in C following the Betty coding style.
